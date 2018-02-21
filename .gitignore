@@ -1,0 +1,10 @@
+#config
+.DS_Store
+.sequelizerc
+
+#node
+node_modules
+
+#compiled
+publish
+docs
